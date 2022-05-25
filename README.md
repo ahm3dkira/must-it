@@ -7,7 +7,7 @@
 | CS 211: Concepts of Programming Languages | CS 102 |
 | CS 212: Data Structures | CS 101 |
 | CS 251: Computer Architecture | ECE 202 |
-| CS 301: Data Communications and Networking | CS 211 | |
+| CS 301: Data Communications and Networking | CS 211 |
 | CS 311: Systems Programming and Assembly Language | |
 | CS 312: Modern Development Tools | |
 | CS 321: Theory of Computation | |
