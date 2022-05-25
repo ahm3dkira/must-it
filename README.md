@@ -11,14 +11,14 @@
 | CS 311: Systems Programming and Assembly Language | |
 | CS 312: Modern Development Tools | |
 | CS 321: Theory of Computation | |
-| CS 331: Analysis and Design of Algorithms | |
-| CS 341: Software Engineering I | |
-| CS 352: Compiler Design | |
-| CS 361: Introduction to Artificial Intelligence | |
-| CS 381: Operating Systems I | |
-| CS 371: Numerical Methods | |
-| CS 401: Computer Science Seminar | |
-| [CS 402: Computer Graphics](courses/CS402.md) | |
+| CS 331: Analysis and Design of Algorithms | CS 212 + MATH 251 |
+| CS 341: Software Engineering I | IS 101 + CS 102 |
+| CS 352: Compiler Design |  CS 211 +CS 311 |
+| CS 361: Introduction to Artificial Intelligence | CS 211+ MATH 251 |
+| CS 381: Operating Systems I | CS 212 |
+| CS 371: Numerical Methods | MATH 102 + MATH 241 + CS 102 |
+| CS 401: Computer Science Seminar | 124 CH |
+| [CS 402: Computer Graphics](courses/CS402.md) | CS 201 + MATH 241 |
 | CS 409: Selected Topics in Computer Science | |
 | CS 441: Software Engineering II | |
 | CS 442: Software Project Management | |
